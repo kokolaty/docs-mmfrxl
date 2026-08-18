@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ha1mq2.indocuan-pro.site/sitemap.xml
